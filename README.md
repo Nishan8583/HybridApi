@@ -1,4 +1,5 @@
 # Go Package to communicate with Hybrid Analysis
+```go
 package main;
 
 import (
@@ -30,3 +31,4 @@ func main() {
   }
   fmt.Println(resp);
 }
+```
