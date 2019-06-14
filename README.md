@@ -1,4 +1,11 @@
 # Go Package to communicate with Hybrid Analysis
+
+## Installation
+```go
+  go get github.com/Nishan8583/HybridApi/Hybrid
+```
+
+## Example:
 ```go
 package main;
 
@@ -32,3 +39,6 @@ func main() {
   fmt.Println(resp);
 }
 ```
+
+## INFO
+Some api have not been implemented yet, since I did not see many people using them
